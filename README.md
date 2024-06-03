@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Developement
 - 🌱 I’m currently learning React js and Node js
 - 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me :- @Amupam Kumar Bhadra on Linkedln and gmail:- rahulbhadra2@gmail.com
+- 📫 How to reach me :- @Anupam Kumar Bhadra on Linkedln and gmail:- rahulbhadra2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a musician and filmmaker.
 
